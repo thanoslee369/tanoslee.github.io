@@ -16,6 +16,6 @@ Bash의 Run Commnad 인 bashrc의 위치는 다릅니다.
 
 ![Alt text](https://luffystoragekorea001.blob.core.windows.net/1234/backcow.png?sv=2020-04-08&st=2022-10-28T04%3A41%3A37Z&se=2050-12-29T04%3A41%3A00Z&sr=b&sp=r&sig=cGQlho%2BVw%2FMOG4GQCYK64NTbD7fu54qOiVY0fkXnZ6s%3D "Optional title")
 
-* 리스트1 [바로가기]: https:/cloud.syncrofusion.com
+* 리스트1 [바로가기]: https://cloud.syncrofusion.com
 * 리스트2
 * 리스트3
