@@ -11,8 +11,8 @@ bash 는 Bourne Again Shell의 약자로 유저의 Command를 받아서 장치�
 적용 방법
 Bash의 Run Commnad 인 bashrc의 위치는 다릅니다. 
 1. home Directory 로 간다
-2. nano .bashrc
-3. alias tesla="terraform"
+2. nano .bashrc 로 .bashrc를 편집
+3. alias tesla="terraform" 테슬라로 테라폼에 별칭을 준다.
 
 ![Alt text](https://luffystoragekorea001.blob.core.windows.net/1234/backcow.png?sv=2020-04-08&st=2022-10-28T04%3A41%3A37Z&se=2050-12-29T04%3A41%3A00Z&sr=b&sp=r&sig=cGQlho%2BVw%2FMOG4GQCYK64NTbD7fu54qOiVY0fkXnZ6s%3D "Optional title")
 
